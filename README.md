@@ -1,38 +1,30 @@
-# 👋 Hi, I'm [Your Name]  
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+# 👋 Hi, I'm Pratham Deora
 
-🚀 **Flutter Developer | Mobile App Enthusiast | UI/UX Explorer**  
+🎯 **Aspiring Flutter Developer | Mobile App Enthusiast | UI/UX Explorer**  
 
-I love building **beautiful, fast, and responsive mobile apps** with Flutter & Dart.  
-Passionate about **clean code, performance optimization, and innovative UI design**.  
+I am a passionate fresher focusing on **Flutter & Dart** to build **beautiful and responsive mobile applications**.  
+I love learning new technologies, solving problems, and contributing to projects that make an impact.  
 
 ---
 
-## 🎨 About Me
-- 🔹 Flutter & Dart Developer  
-- 🔹 Building apps with **State Management**: Provider, Bloc, Riverpod  
-- 🔹 Integrating **APIs & Firebase** for backend functionality  
-- 🔹 UI/UX design & animations  
-
-![Flutter Developer](https://media.giphy.com/media/3o7aCV0vJ7u12t0J5e/giphy.gif)
-
----
-
-## 🔧 Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🔧 Skills
+- **Programming Languages:** Dart, Java, Python  
+- **Mobile Development:** Flutter, Android Studio  
+- **State Management:** Provider, Bloc, Riverpod  
+- **Backend & APIs:** Firebase, REST APIs  
+- **Databases:** SQLite, Hive, Firestore  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📌 Featured Projects
-- 📱 **[Awesome Flutter App](https://github.com/yourusername/project1)** – Flutter app with Firebase Auth & Firestore.  
-- 🎨 **[UI Components Library](https://github.com/yourusername/project2)** – Reusable Flutter widgets library.  
-- 🛒 **[E-Commerce App](https://github.com/yourusername/project3)** – Flutter + Firebase shopping app with cart & payment integration.  
+## 📌 Projects
+Here are some projects I have worked on to improve my skills:  
+
+- 📱 **[Simple Todo App](https://github.com/prathamdeoraa/todo-app)** – Flutter app with local storage and state management.  
+- 🛒 **[E-Commerce UI](https://github.com/prathamdeoraa/ecommerce-ui)** – Designed and implemented a responsive Flutter UI for an e-commerce app.  
+- 🎨 **[Flutter Widgets Collection](https://github.com/prathamdeoraa/flutter-widgets)** – Reusable Flutter widgets for learning and practice.  
+
+> All projects are available on my GitHub. I am continuously learning and updating my portfolio.
 
 ---
 
@@ -43,10 +35,9 @@ Passionate about **clean code, performance optimization, and innovative UI desig
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratham-deora/)  
+- 📧 Email: prathamdeoraa@gmail.com
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From prathamdeoraa: (https://github.com/prathamdeoraa)
