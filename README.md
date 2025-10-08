@@ -35,7 +35,7 @@ Here are some projects I have worked on to improve my skills:
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/prathamdeoraa/) 
+- 💼 [LinkedIn][(https://www.linkedin.com/in/prathamdeoraa/) ](https://www.linkedin.com/in/prathamdeoraa/)
 - 📧 Email: prathamdeoraa@gmail.com
 
 ---
