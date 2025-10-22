@@ -20,9 +20,9 @@ I love learning new technologies, solving problems, and contributing to projects
 ## 📌 Projects
 Here are some projects I have worked on to improve my skills:  
 
-- 📱 **[Simple Todo App](https://github.com/prathamdeoraa/todo-app)** – Flutter app with local storage and state management.  
-- 🛒 **[E-Commerce UI](https://github.com/prathamdeoraa/ecommerce-ui)** – Designed and implemented a responsive Flutter UI for an e-commerce app.  
-- 🎨 **[Flutter Widgets Collection](https://github.com/prathamdeoraa/flutter-widgets)** – Reusable Flutter widgets for learning and practice.  
+- 📱 **[Weather App](https://github.com/prathamdeoraa/)** – Using Api, i have made an app which fetches Live Weather.
+- 🎨 **[Tic-Tac-Toe Game](https://github.com/prathamdeoraa/)** – Using Flutter And Dart Logic, i have made and X and O game.
+- 🛒 **[E-Commerce UI](https://github.com/prathamdeoraa/)** – Designed and implemented a responsive Flutter UI for an e-commerce app.  
 
 > All projects are available on my GitHub. I am continuously learning and updating my portfolio.
 
